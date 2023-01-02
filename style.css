@@ -23,7 +23,7 @@
         border: 1px solid black !important;
         padding: 10px !important;
         font-size: smaller;
-        height: 280px;
+        height: 305px;
          display: grid;
         justify-content: center; 
         /* border-radius: 11px !important; */
@@ -49,10 +49,14 @@
         /* margin: 0 !important; */
     }
     .btn{
-        font-size: small !important;
+        color: black !important;
+        font-size: 12px !important;
+        font-weight: 700 !important;
          padding: 4px !important;
          background-image: linear-gradient(to left,rgb(87, 87, 78),rgb(192, 191, 141));
         border-color: aliceblue !important;
+        width: 130px !important;
+    
     
         }
     .t-img{
@@ -82,7 +86,7 @@
         border: 1px solid black !important;
         padding: 10px !important;
         font-size: smaller;
-        height: 280px;
+        height: 305px;
          display: grid;
         justify-content: center; 
         /* border-radius: 11px !important; */
@@ -108,11 +112,14 @@
         /* margin: 0 !important; */
     }
     .btn{
-        font-size: small !important;
+        color: black !important;
+        font-size: 12px !important;
+        font-weight: 700 !important;
          padding: 4px !important;
          background-image: linear-gradient(to left,rgb(87, 87, 78),rgb(192, 191, 141));
         border-color: aliceblue !important;
-    
+        width: 130px !important;
+        
         }
     .t-img{
         margin-top: -13px;
@@ -141,7 +148,7 @@
         border: 1px solid black !important;
         padding: 10px !important;
         font-size: smaller;
-        height: 280px;
+        height: 305px;
          display: grid;
         justify-content: center; 
         /* border-radius: 11px !important; */
@@ -167,11 +174,14 @@
         /* margin: 0 !important; */
     }
     .btn{
-        font-size: small !important;
+        color: black !important;
+        font-size: 12px !important;
+        font-weight: 700 !important;
          padding: 4px !important;
          background-image: linear-gradient(to left,rgb(87, 87, 78),rgb(192, 191, 141));
         border-color: aliceblue !important;
-    
+        width: 130px !important;
+       
         }
     .t-img{
         margin-top: -13px;
@@ -200,7 +210,7 @@
         border: 1px solid black !important;
         padding: 10px !important;
         font-size: smaller;
-        height: 280px;
+        height: 305px;
          display: grid;
         justify-content: center; 
         /* border-radius: 11px !important; */
@@ -226,11 +236,14 @@
         /* margin: 0 !important; */
     }
     .btn{
-        font-size: small !important;
+        color: black !important;
+        font-size: 12px !important;
+        font-weight: 700 !important;
          padding: 4px !important;
          background-image: linear-gradient(to left,rgb(87, 87, 78),rgb(192, 191, 141));
         border-color: aliceblue !important;
-    
+        width: 130px !important;
+        
         }
     .t-img{
         margin-top: -13px;
@@ -259,12 +272,12 @@
         border: 1px solid black !important;
         padding: 10px !important;
         font-size: smaller;
-        height: 280px;
+        height: 305px;
          display: grid;
         justify-content: center; 
         /* border-radius: 11px !important; */
         /* border: 1px solid red !important; */
-    
+     
         
     }
     .card-title{
@@ -285,11 +298,14 @@
         /* margin: 0 !important; */
     }
     .btn{
-        font-size: small !important;
+        color: black !important;
+        font-size: 12px !important;
+        font-weight: 700 !important;
          padding: 4px !important;
          background-image: linear-gradient(to left,rgb(87, 87, 78),rgb(192, 191, 141));
         border-color: aliceblue !important;
-    
+        width: 130px !important;
+        
         }
     .t-img{
         margin-top: -13px;
@@ -319,7 +335,7 @@
         border: 1px solid black !important;
         padding: 10px !important;
         font-size: smaller;
-        height: 280px;
+        height: 305px;
          display: grid;
         justify-content: center; 
         /* border-radius: 11px !important; */
@@ -345,11 +361,14 @@
         /* margin: 0 !important; */
     }
     .btn{
-        font-size: small !important;
+        color: black !important;
+        font-size: 12px !important;
+        font-weight: 700 !important;
          padding: 4px !important;
          background-image: linear-gradient(to left,rgb(87, 87, 78),rgb(192, 191, 141));
         border-color: aliceblue !important;
-    
+        width: 130px !important;
+        
         }
     .t-img{
         margin-top: -13px;
