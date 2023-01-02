@@ -48,7 +48,7 @@ btn.forEach((elem)=>{
       console.log(data1);
       // console.log(data1.weather[0].main);
 
-      elem.innerHTML =`weather: ${data1.weather[0].description}<br>Temp: ${data1.main.temp}<br>Pressure: ${data1.main.temp}`
+      elem.innerHTML =`weather: ${data1.weather[0].description}<br>Temp: ${data1.main.temp}<br>Pressure: ${data1.main.pressure}`
       console.log(data1.weather[0].description,data1.main.temp,data1.main.pressure)
    
    
